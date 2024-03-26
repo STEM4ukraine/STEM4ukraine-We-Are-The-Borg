@@ -14,7 +14,7 @@ An openscad render of the front of the PCB:
 
 ![prototype front](images/STEM4ukraine-We-Are-The-Borg-v1-openscad.png)
 
-The Macho Macho Man schematic:
+The circuit schematic; simplicity itself:
 
 ![prototype front](hardware/STEM4ukraine-We-Are-The-Borg-v1.svg)
 
